@@ -19,5 +19,5 @@ This Python script allows you to look up a Roblox user's data and Robux balance 
 1. Clone the repository:
    ```bash
    git clone https://github.com/leoidagoat/Roblox-cookie-tools
-   cd repo-name
+   cd Roblox-cookie-tools
 -- leoidagoat on discord
